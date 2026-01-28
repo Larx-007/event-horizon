@@ -3,7 +3,7 @@
 An abstract, futuristic single-page experience featuring an ethereal mesh background, a spinning black hole, and a quote-collapse mechanic with cinematic visual effects.
 
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="/webpage-preview.png"/>
+<img width="1200" height="475" alt="GHBanner" src="/assets/webpage-preview.png"/>
 </div>
 
 # This app is vibe coded using Google AI Studio
