@@ -6,7 +6,7 @@ An abstract, futuristic single-page experience featuring an ethereal mesh backgr
 <img width="1200" height="475" alt="GHBanner" src="/assets/webpage-preview.png"/>
 </div>
 
-# This app is vibe coded using Google AI Studio
+## This app is vibe coded using Google AI Studio
 
 This contains everything you need to run your app locally.
 
